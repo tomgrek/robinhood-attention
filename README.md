@@ -1,6 +1,6 @@
 # Predicting stocks with attention
 
-This accompanies my Medium article https://medium.com/p/227e4323d14d
+This accompanies my Medium article https://medium.com/@tomgrek/it-happened-again-i-gave-control-of-my-robinhood-account-to-an-ai-227e4323d14d
 
 # License
 
